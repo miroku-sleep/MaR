@@ -6,7 +6,7 @@ from this task i have learnt basic bash scripting and use of python library func
 
 ##my notes
 ![note1](https://github.com/user-attachments/assets/6a1b8ac9-a395-40f7-9cfe-e093f1f35c95)
-![note2](https://github.com/user-attachments/assets/992676f5-c5c1-4fcc-96b1-9544b8dc222f)
+![note2](https://github.com/user-attachments/assets/694ffbbc-d2bf-45f3-b968-97ffca751bb7)
 ![note3](https://github.com/user-attachments/assets/b587f2ac-ceeb-496e-9f81-bba5032ef7a2)
 ![note4](https://github.com/user-attachments/assets/1627181b-3063-420b-8cc4-6c2579cfa0d8)
 ![note5](https://github.com/user-attachments/assets/6b400d80-07b8-4697-a5cb-5a9bf2a35b93)
